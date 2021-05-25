@@ -1,5 +1,5 @@
 # X-Pense
-Spending Analysis in 6 simple steps:
+# Spending Analysis in 6 simple steps:
 
 # 1.Set budget for any month
 # 2.Can update the budget at any time
